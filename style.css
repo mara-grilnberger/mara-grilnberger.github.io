@@ -52,5 +52,5 @@ img.photo{
 
 div.publ {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
