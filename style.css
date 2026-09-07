@@ -52,7 +52,6 @@ img.photo{
 }
 
 div.publ {
-  margin-left: 1em auto;
   display: flex;
   justify-content: flex-start;
 }
