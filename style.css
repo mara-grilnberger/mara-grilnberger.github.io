@@ -5,6 +5,7 @@ body {
   max-width: 1024px;
   margin: 1em auto;
   text-align: justify;
+  text-align-last: none;
   padding: 0 1em;
   font-size: 18px;
 }
