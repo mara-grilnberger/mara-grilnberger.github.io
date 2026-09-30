@@ -44,13 +44,6 @@ div.about_me {
   justify-content: center;
 }
 
-@media only screen and (max-width: 900px) { //Set desired width to call 'mobile'
-  div.about_me {
-    flex-flow: row wrap;
-    width: unset;
-    height: 500px; //Whatever you want again
-  }
-
 img.photo{
   width: 234px;
   height: 320px;
