@@ -44,9 +44,9 @@ div.about_me {
   justify-content: center;
 }
 
-img.photo{
+img.photo {
   width: 234px;
-  height: 320px;
+  height: auto;
   margin: 0px 40px 40px 0px;
   border-radius: 10px;
 }
