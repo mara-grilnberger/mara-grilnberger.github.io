@@ -46,7 +46,7 @@ div.about_me {
 
 img.photo {
   width: 234px;
-  height: auto;
+  height: 320px;
   margin: 0px 40px 40px 0px;
   border-radius: 10px;
 }
@@ -54,10 +54,6 @@ img.photo {
 div.publ {
   display: flex;
   justify-content: flex-start;
-}
-
-img {
-  max-width: 100%;
 }
 
 @media (max-width: 700px) {
