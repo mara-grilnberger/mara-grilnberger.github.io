@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mara-grilnberger.github.io/sitemap.xml
