@@ -46,9 +46,11 @@ div.about_me {
 
 img.photo {
   width: 234px;
-  height: 320px;
+  height: 312px;
+  object-fit: cover;
   margin: 0px 40px 40px 0px;
   border-radius: 10px;
+  flex-shrink: 0;
 }
 
 div.publ {
