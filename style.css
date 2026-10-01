@@ -56,6 +56,10 @@ div.publ {
   justify-content: flex-start;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media (max-width: 700px) {
   div.about_me {
     flex-direction: column;
@@ -66,5 +70,9 @@ div.publ {
     width: 180px;
     height: auto;
     margin: 0 0 20px 0;
+  }
+
+  body {
+    text-align: left;
   }
 }
